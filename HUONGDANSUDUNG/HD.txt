@@ -1,0 +1,3 @@
+TẠO database mysqlsanpham
+import 2 file sql vào trong database
+config ketnoi.php
